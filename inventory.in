@@ -1,0 +1,3 @@
+[production]
+client1 ansible_ssh_host=18.211.69.200
+client2 ansible_ssh_host=52.2.137.20
