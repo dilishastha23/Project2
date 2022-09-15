@@ -1,3 +1,2 @@
-[production]
-client1 ansible_ssh_host=18.211.69.200
-client2 ansible_ssh_host=52.2.137.20
+[Production]
+client1 ansible_host=34.231.138.180 ansible_user=root
