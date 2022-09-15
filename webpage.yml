@@ -4,6 +4,6 @@
   tasks:
    - name: Deploy static website
      copy:
-      src: /home/index.html
+      src: /var/lib/jenkins/workspace/Project2
       dest: /var/www/html/
 ...
