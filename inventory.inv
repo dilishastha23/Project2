@@ -1,2 +1,2 @@
 [production]
-client1 ansible_ssh_host=52.2.137.20
+client1 ansible_ssh_host=54.85.131.116
